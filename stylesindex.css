@@ -1,0 +1,126 @@
+ html {
+     background-color: rgb(34, 41, 53);
+ }
+
+ a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    background-color: rgb(185, 212, 221);
+}
+
+#contact {
+    width: 400px;
+    height: 600px;
+}
+ 
+ h2, h4, div.gallery {
+    text-align: center;
+}
+
+table {
+    background-color: rgba(255, 255, 255, 0.65);
+    border: solid;
+    font-family: arial;
+    position: fixed;
+}
+
+th img {
+    margin-top: -48px;
+    margin-bottom: -45px;
+    margin-left: -10px;
+}
+
+th {
+    width: 1090px;
+    line-height: 0;
+    text-align: left;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+
+td {
+    padding-left: 15px;
+    padding-right: 15px;
+    text-transform: lowercase;
+    text-align: right;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+.intro {
+    font-family: serif;
+    padding: 100px;
+    margin-top: 0px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 0px;
+    background-color: rgba(255, 255, 255, 0.65);
+    line-height: .2;
+    border: solid;
+    border-radius: 10px;
+}
+
+p.int {
+    letter-spacing: 5px;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.gallery img {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgba(255, 255, 255, 0.75);
+    border: solid black;
+    border-radius: 10px;
+}
+
+div.desc {
+    padding: 50px;
+    padding-top: 25px;
+    margin-top: 25px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 50px;
+    border: solid;
+    color: rgb(168, 168, 168);
+}
+
+figure {
+    margin-top: 100px;
+}
+
+
+#desc2 {
+    margin-left: 500px;
+    margin-right: 200px;
+    margin-top: 30px;
+}
+
+.par2 img {
+    width: auto;
+    padding: 40px;
+}
+
+.par2#kama {
+    width: 50%;
+    float: left;
+    padding: 15px;
+}
+
+.par2#sarah {
+    width: 50%;
+    float: left;
+    padding: 15px;
+}
